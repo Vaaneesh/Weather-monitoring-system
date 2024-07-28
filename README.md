@@ -63,6 +63,9 @@ The Weather Monitoring System is a web application designed to provide real-time
         npm run server
         ```
 
+    ![api check](./postman_ss.png)
+
+
 3. **Frontend Setup**
 
     - Navigate to the frontend directory
@@ -96,3 +99,5 @@ The Weather Monitoring System is a web application designed to provide real-time
 - Open your browser and navigate to `http://localhost:3000`
 - Click on the "Fetch and Display Weather Data" button to load the weather data for the predefined cities.
 - The weather data will be displayed in a user-friendly format with icons representing different weather parameters.
+
+![Frontend preview](./browser.png)
