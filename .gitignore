@@ -13,15 +13,8 @@ pids/
 
 .env
 
-/frontend/build/
-/frontend/node_modules/
-/frontend/public/icons/
 
-frontend/src/*.jsx
-frontend/src/*.js
-frontend/src/*.css
-frontend/src/*.map
-frontend/src/*.json
+
 
 .DS_Store
 
@@ -53,10 +46,6 @@ coverage/
 /dist/
 build/
 
-backend/api.js
-backend/routes/api.js
-backend/controllers/weatherController.js
 
-frontend/src/WeatherDashboard.css
 
-frontend/src/*.css
+
